@@ -1,2 +1,2 @@
 # JavaScript
-Curso Javascript oferecido pela empresa Capgemini (ministrado pela Proway).
+Curso Javascript e HTML oferecido pela empresa Capgemini (ministrado pela Proway).
